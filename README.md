@@ -7,19 +7,19 @@ Or this link-
 
 # 🎮 About the Game
 Drive Mad is a fun and challenging driving game where players must:
-🚗 Control vehicles across tricky terrains
-⚖️ Maintain balance to avoid flipping
-🧠 Solve physics-based driving challenges
+<br>🚗 Control vehicles across tricky terrains<br>
+⚖️ Maintain balance to avoid flipping<br>
+🧠 Solve physics-based driving challenges<br>
 # ✨ Features
 🎮 Playable directly in the browser
-⚡ Fast loading with CDN-based assets
-🖥️ Fullscreen canvas gameplay
-📱 Works on desktop and mobile browsers
+<br>⚡ Fast loading with CDN-based assets<br>
+🖥️ Fullscreen canvas gameplay<br>
+📱 Works on desktop and mobile browsers<br>
 # 🛠️ Built With
-HTML5 – Page structure
-JavaScript – Game integration
-Canvas API – Rendering gameplay
-External CDN Assets – Game engine and resources
+HTML5 – Page structure<br>
+JavaScript – Game integration<br>
+Canvas API – Rendering gameplay<br>
+External CDN Assets – Game engine and resources<br>
 # 📂 Project Structure
 Text id="l5h8fd"
 Copy code
@@ -34,12 +34,12 @@ Copy code
 git clone https://github.com/blackarchparrot/your-repo-name.git
 Open the project folder.
 Open index.html in your browser.
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 This project is a web integration/remake of the original game.
 All game assets and logic belong to their respective creators
 This project is created for educational and demonstration purposes only
-📜 Credits
+# 📜 Credits
 Original game: Drive Mad (Fancade)
 Assets sourced via CDN
-📜 License
-© 2026 Aftab Sunny. All rights reserved.
+# 📜 License
+© 2026 Aftab Sunny. All rights reserved(MIT).
